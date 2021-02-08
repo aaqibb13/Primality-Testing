@@ -16,11 +16,11 @@ The general strategy is to test a prime candidate **n** so often with several di
 Remember that as soon as the statement **n is composite** occurs, we know with certainty that n is not a prime and we can discard it right there.
 
 #### Caveat:
-Probabilistic Primality Testing Algorithms are No-biased Monte Carlo algorithms which means that, when the algorithms output **No**, the answer is correct. Whereas the output
-**Yes** comes with some chances of error. In order for these algorithms to be useful, the error probabilities should be low.
+``` diff
+- Probabilistic Primality Testing Algorithms are No-biased Monte Carlo algorithms which means that, when the algorithms output **No**, the answer is correct. Whereas the output **Yes** comes with some chances of error. In order for these algorithms to be useful, the error probabilities should be low ```
 
-# Progress:
-- [x] Trial and Error
+# Progress: 
+- [x] Trial and Error 
 - [x] Fermat Test
 - [ ] Miller–Rabin Test
 - [ ] Solovay–Strassen Test
