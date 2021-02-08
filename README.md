@@ -4,8 +4,9 @@
 This is the readme file for the various probabilistic primality testing algorithms implemented in Python, starting right from the fermat's test which is the basic and most oldest of the primality testing algorithms.
 
 Primality testing algorithm's behave differently depending upon the integer ***n*** being fed to the primality testing algorithm:
-> - The answer is either: > **n is a composite (not a prime)** or
-> - The answer is: **n is a probable prime**.
+* ` The answer is either:  n is a composite (not a prime) or`
+* ` The answer is: n is a probable prime`
+
 However, the first condition is always true, or the second condition is true with a high probability. Though, in rare cases, an integer might prompt a “prime” statement but lie, i.e., an incorrect answer is yielded. There, however is a way to deal with this sort of behavior.
 
 Probabilistic algorithms are usually used in practical scenarios. These algorithms have another parameter **a** as input which is chosen at random. 
