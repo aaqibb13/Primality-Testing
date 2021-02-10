@@ -17,7 +17,7 @@ Remember that as soon as the statement **n is composite** occurs, we know with c
 
 #### Caveat:
 ``` diff 
-- Probabilistic Primality Testing Algorithms are No-biased Monte Carlo algorithms which means that, when the algorithms output **No**, the answer is correct. Whereas the output **Yes** comes with some chances of error. In order for these algorithms to be useful, the error probabilities should be low 
+- Probabilistic Primality Testing Algorithms are No-biased Monte Carlo algorithms which means that, when the algorithms output No, the answer is correct. Whereas the output Yes comes with some chances of error. In order for these algorithms to be useful, the error probabilities should be low 
 ```
 
 # Progress: 
