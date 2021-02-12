@@ -28,7 +28,6 @@ Remember that as soon as the statement **n is composite** occurs, we know with c
 - [ ] Fibonacci Test
 - [ ] Lucas Test
 # References:
-
 A brief description of the following tests can be found as follows: 
 
 > [Fermat Primality Test](https://en.wikipedia.org/wiki/Fermat_primality_test)
@@ -39,5 +38,5 @@ A brief description of the following tests can be found as follows:
 
 > [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)
 
-## Purpose
+## Purpose:
 The purpose of this repository is to include all the primality testing algorithms so one can suitably understand why Miller-Rabin is an ideal choice in most cryptographoc applications where Primality testing plays a crucial role.
