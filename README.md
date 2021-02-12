@@ -1,5 +1,8 @@
 [![GitHub license](https://img.shields.io/github/license/aaqibb13/Primality-Testing)](https://github.com/aaqibb13/Primality-Testing/blob/master/LICENSE) ![GitHub language count](https://img.shields.io/github/languages/count/aaqibb13/Primality-Testing?color=brightgreen)
 
+## Purpose
+The purpose of this repository is to include all the primality testing algorithms so one can suitably understand why Miller-Rabin is an ideal choice in most cryptographoc applications where Primality testing plays a crucial role.
+
 # Primality-Testing:
 This is the readme file for the various probabilistic primality testing algorithms implemented in Python, starting right from the fermat's test which is the basic and most oldest of the primality testing algorithms.
 
