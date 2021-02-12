@@ -22,7 +22,7 @@ Remember that as soon as the statement **n is composite** occurs, we know with c
 
 # Progress: 
 - [x] Trial and Error 
-- [x] Fermat Test
+- [x] Fermat Primality Test
 - [ ] Miller–Rabin Test
 - [ ] Solovay–Strassen Test
 - [ ] Fibonacci Test
@@ -30,6 +30,11 @@ Remember that as soon as the statement **n is composite** occurs, we know with c
 # References:
 
 A brief description of the following tests can be found as follows: 
+
+> [Fermat Primality Test](https://en.wikipedia.org/wiki/Fermat_primality_test)
+
 > [Miller-Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
 
-> [Fermat primality test](https://en.wikipedia.org/wiki/Fermat_primality_test)
+> [Solovay-Strassen Test](https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test)
+
+> [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)
