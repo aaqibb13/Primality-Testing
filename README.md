@@ -39,4 +39,4 @@ A brief description of the following tests can be found as follows:
 > [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)
 
 ## Purpose:
-The purpose of this repository is to include all the primality testing algorithms so one can suitably understand why Miller-Rabin is an ideal choice in most cryptographoc applications where Primality testing plays a crucial role.
+The purpose of this repository is to include all the primality testing algorithms so that one can suitably understand why Miller-Rabin is an ideal choice in most cryptographoc applications where Primality testing plays a crucial role.
