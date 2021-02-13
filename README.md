@@ -30,13 +30,13 @@ Remember that as soon as the statement **n is composite** occurs, we know with c
 # References:
 A brief description of the following tests can be found as follows: 
 
-> [Fermat Primality Test](https://en.wikipedia.org/wiki/Fermat_primality_test)
+| Test                  | Wikipedia Description                                                                            |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| #1                    | [Fermat Primality Test](https://en.wikipedia.org/wiki/Fermat_primality_test)                     |
+| #2                    | [Miller-Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) |
+| #3                    | [Solovay-Strassen Test](https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test)   |
+| #4                    | [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)                                 |
 
-> [Miller-Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
-
-> [Solovay-Strassen Test](https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test)
-
-> [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)
 
 ## Purpose:
 The purpose of this repository is to include all the primality testing algorithms so that one can suitably understand why Miller-Rabin is an ideal choice in most cryptographoc applications where Primality testing plays a crucial role.
