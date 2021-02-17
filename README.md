@@ -43,3 +43,6 @@ The purpose of this repository is to include all the primality testing algorithm
 
 ## To-do:
 - [ ] Prepare a table with corresponding running times of these algorithms along with the class they belong to.
+
+## Note:
+Deterministic Primality testing algorithms are not included in this repository because we strictly adhere to primality testing algorithms that are efficient and used in practice.
