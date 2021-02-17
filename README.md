@@ -13,12 +13,11 @@ Probabilistic algorithms are usually used in practical scenarios. These algorith
 If a composite number **n** together with a parameter **a** yields the incorrect statement “Probable prime”, the test is repeated a second time with a different value for **a**. 
 The general strategy is to test a prime candidate **n** so often with several different random values of **a** that the likelihood of the pair **(n,a)** lying every single time is sufficiently small, say, less than **2^(−80)**.
 
-Remember that as soon as the statement **n is composite** occurs, we know with certainty that n is not a prime and we can discard it right there.
+Remember that as soon as the statement **n is composite** occurs, we know with certainty that **n is not a prime** and we can discard it right there.
 
 #### Caveat:
-``` diff 
-- Probabilistic Primality Testing Algorithms are No-biased Monte Carlo algorithms which means that, when the algorithms output No, the answer is correct. Whereas the output Yes comes with some chances of error. In order for these algorithms to be useful, the error probabilities should be low 
-```
+
+> **Probabilistic Primality Testing Algorithms are No-biased Monte Carlo algorithms which means that, when the algorithms output No, the answer is correct. Whereas the output Yes comes with some chances of error. In order for these algorithms to be useful, the error probabilities should be low** 
 
 # Progress: 
 - [x] Trial and Error 
@@ -27,6 +26,7 @@ Remember that as soon as the statement **n is composite** occurs, we know with c
 - [ ] Solovay–Strassen Test
 - [ ] Fibonacci Test
 - [ ] Lucas Test
+
 # References:
 A brief description of the following tests can be found as follows: 
 
