@@ -3,7 +3,7 @@
 # Primality-Testing:
 This is the readme file for the various probabilistic primality testing algorithms implemented in Python, starting right from the fermat's test which is the basic and most oldest of the primality testing algorithms.
 
-Primality testing algorithm's behave differently depending upon the integer ***n*** being fed to the primality testing algorithm:
+Primality testing algorithm's behave differently depending based upon the integer ***n*** being fed to the primality testing algorithm:
 * ` The answer is either:  n is a composite (not a prime) or`
 * ` The answer is: n is a probable prime`
 
