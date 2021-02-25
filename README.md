@@ -1,4 +1,4 @@
-# Primality-Testing:
+# Primality-Testing
 
 [![GitHub license](https://img.shields.io/github/license/aaqibb13/Primality-Testing)](https://github.com/aaqibb13/Primality-Testing/blob/master/LICENSE) ![GitHub language count](https://img.shields.io/github/languages/count/aaqibb13/Primality-Testing?color=brightgreen)
 
