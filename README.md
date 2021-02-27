@@ -29,7 +29,7 @@ Remember that as soon as the statement **n is composite** occurs, we know with c
 - [ ] Lucas Test
 
 # References:
-A brief description of the following tests can be found as follows: 
+A brief description of the following tests can be found as follows:
 
 | Test                  | Wikipedia Description                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
@@ -47,3 +47,11 @@ The purpose of this repository is to include all the primality testing algorithm
 
 # Note:
 Deterministic Primality testing algorithms are not included in this repository because we strictly adhere to primality testing algorithms that are efficient and used in practice.
+
+# Running time of the algorithms:
+| Test                  | Running Time                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| [Fermat Primality Test](https://en.wikipedia.org/wiki/Fermat_primality_test)                     |                       |
+| [Miller-Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) |                       |
+| [Solovay-Strassen Test](https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test)   |                       |
+| [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)                                 |                       |
