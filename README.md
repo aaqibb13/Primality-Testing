@@ -49,6 +49,6 @@ Deterministic Primality testing algorithms are not included in this repository b
 | Test                  | Running Time                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
 | [Fermat Primality Test](https://en.wikipedia.org/wiki/Fermat_primality_test)                     | **Complexity:** When fast algorithms are used for modular exponentiation along with multiprecision multiplication, the running time of this algorithm is O(k log^(2)n log log n) = Õ(k log^(2)n), where k is the number of times we test a random a, and n is the value we want to test for primality                       |
-| [Miller-Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) |                       |
+| [Miller-Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) | **Complexity:** If repeated squaring is used, the running time of this algorithm is O(k log^(3)n), where n is the number tested for primality, and k is the number of rounds performed; thus making it an efficient, polynomial-time algorithm                       |
 | [Solovay-Strassen Test](https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test)   |                       |
 | [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)                                 |                       |
