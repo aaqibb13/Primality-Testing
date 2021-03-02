@@ -39,10 +39,6 @@ A brief description of the following tests can be found as follows:
 | Test #4               | [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)                                 |
 
 
-# Purpose:
-The purpose of this repository is to include all the primality testing algorithms so that one can suitably understand why Miller-Rabin is an ideal choice in most cryptographic applications where Primality testing plays a crucial role.
-
-
 # Running time of the algorithms:
 | Test                  | Running Time                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
@@ -53,3 +49,6 @@ The purpose of this repository is to include all the primality testing algorithm
 
 # Note:
 Deterministic Primality testing algorithms are not included in this repository because we strictly adhere to primality testing algorithms that are efficient and used in practice.
+
+# Purpose:
+The purpose of this repository is to include all the primality testing algorithms so that one can suitably understand why Miller-Rabin is an ideal choice in most cryptographic applications where Primality testing plays a crucial role.
