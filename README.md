@@ -42,8 +42,6 @@ A brief description of the following tests can be found as follows:
 # Purpose:
 The purpose of this repository is to include all the primality testing algorithms so that one can suitably understand why Miller-Rabin is an ideal choice in most cryptographic applications where Primality testing plays a crucial role.
 
-# Note:
-Deterministic Primality testing algorithms are not included in this repository because we strictly adhere to primality testing algorithms that are efficient and used in practice.
 
 # Running time of the algorithms:
 | Test                  | Running Time                                                                                     |
@@ -52,3 +50,6 @@ Deterministic Primality testing algorithms are not included in this repository b
 | [Miller-Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) | **Complexity:** If repeated squaring is used, the running time of this algorithm is O(k log^(3)n), where n is the number tested for primality, and k is the number of rounds performed; thus making it an efficient, polynomial-time algorithm                       |
 | [Solovay-Strassen Test](https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test)   |                       |
 | [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)                                 |                       |
+
+# Note:
+Deterministic Primality testing algorithms are not included in this repository because we strictly adhere to primality testing algorithms that are efficient and used in practice.
