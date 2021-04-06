@@ -38,7 +38,6 @@ A brief description of the following tests can be found as follows:
 | Test #3               | [Solovay-Strassen Test](https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test)   |
 | Test #4               | [Lucas Test](https://en.wikipedia.org/wiki/Lucas_primality_test)                                 |
 
-
 # Running time of the algorithms:
 | Test                  | Running Time                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
