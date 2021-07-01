@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/aaqibb13/Primality-Testing)](https://github.com/aaqibb13/Primality-Testing/blob/master/LICENSE) ![GitHub language count](https://img.shields.io/github/languages/count/aaqibb13/Primality-Testing?color=brightgreen) ![GitHub last commit](https://img.shields.io/github/last-commit/aaqibb13/Primality-Testing)
 
-This is the readme file for the various probabilistic primality testing algorithms implemented in Python, starting right from the fermat's test which is the basic and most oldest of the primality testing algorithms.
+This is the README file for the various probabilistic primality testing algorithms implemented in Python, starting right from the fermat's test which is the basic and most oldest of the primality testing algorithms.
 
 Primality testing algorithm's behave differently depending based upon the integer ***n*** being fed to the primality testing algorithm:
 * ` The answer is either:  n is a composite (not a prime) or`
